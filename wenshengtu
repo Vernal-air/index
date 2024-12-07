@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN”>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale-1.0">
+    <title>成语文生图</title>
+    <style>
+        body { font-family: Arial,sans-serif; text-align: center; margin: 20px;}
+        h1 {font-size:2em;color: #333;}
+        img { margin:10px;border: 1px solid #ccc; }
+        u{ color: #555;}
+    </style>
+</head>
+<body>
+    <h1>画蛇添足(huà shé tiān zú)</h1>
+    <p>生成的文生图中包含的文本:<u>画蛇添足，形容做了多余的事，反而把事情弄坏。</u></p>
+    <img src="1.png”alt="画蛇添足生成图"width="300">
+    <p>最初，尝试直接使用 prompt“画蛇添足”生成图像，然而结果并没有达到预期，图像内容无法很好地传达成语的精髓。</p>
+    <p>接着，进一步描述了成语“画蛇添足”的具体画面:</p>
+    <ul>
+        <1i>一个人坐在地上，用木棍在地面上画简笔画的蛇。</li>
+        <li>随后，画出了多余的部分一给蛇加上了不必要的脚，这一行为正好体现了“画蛇添足”的含义。</li>
+        <1i>画风采用了简笔画风格，使画面看起来简单直接。</1i>
+    </ul>
+    <p>最终，经过几轮生成与筛选，挑选出了其中一张相对较为成功的结果，并将其展示。</p>
+</body>
+</html>
